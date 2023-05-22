@@ -1,0 +1,16 @@
+at/wirecube/examples/products/application/dto/ProductListResponse.class
+at/wirecube/examples/products/application/enums/converter/VatAttributeConverter.class
+at/wirecube/examples/products/application/dto/ProductListResponse$ProductListResponseBuilder.class
+at/wirecube/examples/products/application/dto/ProductDTO.class
+at/wirecube/examples/products/application/repository/model/Product$ProductBuilder.class
+at/wirecube/examples/products/application/dto/CreateProductDTO.class
+at/wirecube/examples/products/application/dto/CreateProductDTO$CreateProductDTOBuilder.class
+at/wirecube/examples/products/application/repository/model/Product.class
+at/wirecube/examples/products/application/service/ProductService.class
+at/wirecube/examples/products/application/controller/ProductController.class
+at/wirecube/examples/products/application/dto/ProductDTO$ProductDTOBuilder.class
+at/wirecube/examples/products/application/repository/ProductRepository.class
+at/wirecube/examples/products/application/converter/ProductConverter.class
+at/wirecube/examples/products/application/enums/Vat.class
+at/wirecube/examples/products/application/ProductManagementApplication.class
+at/wirecube/examples/products/application/enums/converter/VatAttributeConverter$1.class

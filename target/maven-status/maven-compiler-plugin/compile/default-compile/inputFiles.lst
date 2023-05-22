@@ -1,0 +1,11 @@
+/home/ahamidovic/Workspace/java-crud-products-amel-hamidovic/src/main/java/at/wirecube/examples/products/application/enums/Vat.java
+/home/ahamidovic/Workspace/java-crud-products-amel-hamidovic/src/main/java/at/wirecube/examples/products/application/enums/converter/VatAttributeConverter.java
+/home/ahamidovic/Workspace/java-crud-products-amel-hamidovic/src/main/java/at/wirecube/examples/products/application/repository/model/Product.java
+/home/ahamidovic/Workspace/java-crud-products-amel-hamidovic/src/main/java/at/wirecube/examples/products/application/dto/ProductListResponse.java
+/home/ahamidovic/Workspace/java-crud-products-amel-hamidovic/src/main/java/at/wirecube/examples/products/application/ProductManagementApplication.java
+/home/ahamidovic/Workspace/java-crud-products-amel-hamidovic/src/main/java/at/wirecube/examples/products/application/dto/CreateProductDTO.java
+/home/ahamidovic/Workspace/java-crud-products-amel-hamidovic/src/main/java/at/wirecube/examples/products/application/dto/ProductDTO.java
+/home/ahamidovic/Workspace/java-crud-products-amel-hamidovic/src/main/java/at/wirecube/examples/products/application/controller/ProductController.java
+/home/ahamidovic/Workspace/java-crud-products-amel-hamidovic/src/main/java/at/wirecube/examples/products/application/service/ProductService.java
+/home/ahamidovic/Workspace/java-crud-products-amel-hamidovic/src/main/java/at/wirecube/examples/products/application/repository/ProductRepository.java
+/home/ahamidovic/Workspace/java-crud-products-amel-hamidovic/src/main/java/at/wirecube/examples/products/application/converter/ProductConverter.java
